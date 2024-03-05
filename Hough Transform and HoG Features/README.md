@@ -1,6 +1,6 @@
 /////////// WHAT IS THIS PROJECT ABOUT //////////
 
-In this project we aimed to find the edges of turkish coins, and to find the edges we used hough transform. And then, to classify we used SVM Classifer. Then visualized the results.
+In this project we aimed to find the edges of turkish coins, and to find the edges we used hough transform. And then, to classify we used SVM Classifer using HOG Features. Then visualized the results.
 
 /////////// LOCATION OF CODE //////////
 
