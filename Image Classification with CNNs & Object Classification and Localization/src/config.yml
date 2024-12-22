@@ -1,0 +1,5 @@
+DATADIR: src/data/indoorCVPR_09/Images
+TRAIN_PATHS: src/data/TrainImages.txt
+TEST_PATHS: src/data/TestImages.txt
+BATCH_SIZE: [32]
+LEARNING_RATE: [0.01]
